@@ -1,3 +1,4 @@
+
 #Rail Fence Cipher
 
 This cipher is used to encode a string by placing each character successively in a diagonal along a set of "rails". 
@@ -6,11 +7,11 @@ until you reach the top rail. Continue until you reach the end of the string. Ea
 to derive the encoded string. 
 
 For example, the string "WEAREDISCOVEREDFLEEATONCE" could be represented in a three rail system as follows:
-
+```
 W       E       C       R       L       T       E
   E   R   D   S   O   E   E   F   E   A   O   C  
     A       I       V       D       E       N    
-    
+```    
 The encoded string would be:
 
 WECRLTEERDSOEEFEAOCAIVDEN
