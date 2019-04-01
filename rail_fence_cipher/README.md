@@ -19,3 +19,5 @@ WECRLTEERDSOEEFEAOCAIVDEN
 The encode function takes 2 arguments, a string and the number of rails, and returns the ENCODED string.
 
 The decode function takes 2 arguments, an encoded string and the number of rails, and returns the DECODED string.
+
+*Based on a challenge from CodeWars.com*
