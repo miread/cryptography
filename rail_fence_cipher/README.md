@@ -1,5 +1,5 @@
 
-#Rail Fence Cipher
+# Rail Fence Cipher
 
 This cipher is used to encode a string by placing each character successively in a diagonal along a set of "rails". 
 First start off moving diagonally and down. When you reach the bottom, reverse direction and move diagonally and up 
